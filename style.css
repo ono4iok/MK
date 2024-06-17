@@ -223,7 +223,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/20190321_135304.jpg);
+    background-image: url(20190321_135304.jpg);
     height: auto;
     padding: 15px 0px;
     background-size: cover;
@@ -395,7 +395,7 @@ button {
 .image_0 {
     width: 50%;
     float: left;
-    background-image: url(../images/IMG\ WM-128.jpg);
+    background-image: url(IMG\ WM-128.jpg);
     height: 200px;
     padding: 70px 50px 130px 50px;
     background-size: 100%;
@@ -480,41 +480,41 @@ button {
 .image_3 {
     width: 100%;
     float: left;
-    background-image: url(../images/img-3.png);
+    background-image: url(img-3.png);
     height: 94px;
     background-repeat: no-repeat;
     top: -40px;
     position: relative;
 }
 .box_main .image_3:hover{
-    background-image: url(../images/img-6.png);
+    background-image: url(img-6.png);
 }
 .image_4 {
     width: 100%;
     float: left;
-    background-image: url(../images/img-3.png);
+    background-image: url(img-3.png);
     height: 94px;
     background-repeat: no-repeat;
     top: -40px;
     position: relative;
 }
 .box_main .image_4:hover{
-    background-image: url(../images/img-6.png);
+    background-image: url(img-6.png);
 }
 .image_4.active{
-    background-image: url(../images/img-6.png);
+    background-image: url(img-6.png);
 }
 .image_5 {
     width: 100%;
     float: left;
-    background-image: url(../images/img-5.png);
+    background-image: url(img-5.png);
     height: 94px;
     background-repeat: no-repeat;
     top: -40px;
     position: relative;
 }
 .box_main .image_5:hover{
-    background-image: url(../images/img-7.png);
+    background-image: url(img-7.png);
 }
 .box_main.active{
     background-color: #470005;
@@ -632,7 +632,7 @@ button {
 .portfolio_section_2 {
     width: 100%;
     float: left;
-    background-image: url(../images/portfolio-bg.png);
+    background-image: url(portfolio-bg.png);
     height: auto;
     background-size: cover;
     padding-bottom: 60px;
